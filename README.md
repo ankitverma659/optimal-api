@@ -18,7 +18,7 @@ It uses, H2 database, which is an in-memory database, so no external database se
 
 ### Prerequisites  
 - **Java 17+**  
-- **Maven**  
+- **Maven**
 
 ### 🔧 Setup & Run  
 
@@ -27,7 +27,10 @@ It uses, H2 database, which is an in-memory database, so no external database se
    git clone <your-repo-url>
    cd <your-project-directory>
 
-mvn spring-boot:run 1️⃣
+mvn spring-boot:run 1️
 
+### Swagger
 Swagger URL: http://localhost:8090/swagger-ui/index.html#/
 ![Project Logo](images/swagger.png)
+
+
