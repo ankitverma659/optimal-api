@@ -10,7 +10,7 @@ It provides **RESTful APIs** for managing users, including:
 ✅ Random User Generation  
 ✅ Hierarchical User Structure  
 
-It uses, H2 database, which is an in-memory database, so no external database setup is required. But it will hold data only till lifecyle of database
+It uses, H2 database, which is an in-memory database, so no external database setup is required. But it will hold data only till lifecyle of application
 
 ---
 
