@@ -1,4 +1,4 @@
-# optimal-api
+# Optimal-Api
 # Spring Boot User Management API  
 
 This is a **Spring Boot** project following **SOLID principles, CQRS, and best coding practices**.  
